@@ -5,7 +5,7 @@ It demonstrates how **model complexity, feature engineering, and regularization*
 
 ---
 
-## 🔑 Key Experiments
+## Key Experiments
 
 - **Complexity Sweep**  
   Polynomial degree ↑ → training error ↓, test error shows U-shaped curve (bias ↓, variance ↑).
@@ -24,7 +24,7 @@ It demonstrates how **model complexity, feature engineering, and regularization*
 
 ---
 
-## 📊 Sample Results
+## Sample Results
 
 | Experiment              | Plot |
 |--------------------------|------|
@@ -34,7 +34,7 @@ It demonstrates how **model complexity, feature engineering, and regularization*
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/<your-username>/bias-variance-california.git
